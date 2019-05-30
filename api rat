@@ -1,0 +1,14 @@
+?php
+function two_numbers($num1,$num2) {
+$multiplication=$num1*$num2;
+echo $multiplication;
+}
+
+two_numbers(1,3)
+function to_words{1,3}{
+  echo two_numbers "three";
+}
+
+if(two_numbers=3)
+ print("three")
+ ?>
